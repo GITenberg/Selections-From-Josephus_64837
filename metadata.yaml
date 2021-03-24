@@ -1,0 +1,25 @@
+_repo: Selections-From-Josephus_64837
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Thackeray, J.
+    gutenberg_agent_id: '53075'
+    url: http://www.gutenberg.org/2009/agents/53075
+creator:
+  author:
+    agent_name: Josephus, Titus Flavius
+    gutenberg_agent_id: '53074'
+    url: http://www.gutenberg.org/2009/agents/53074
+description: ''
+gutenberg_issued: '2021-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64837'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Selections From Josephus
+url: http://www.gutenberg.org/ebooks/64837
