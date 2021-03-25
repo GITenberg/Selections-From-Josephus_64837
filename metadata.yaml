@@ -5,12 +5,17 @@ contributor:
     agent_name: Thackeray, J.
     gutenberg_agent_id: '53075'
     url: http://www.gutenberg.org/2009/agents/53075
+covers:
+- cover_type: archival
+  image_path: 64837-h/images/cover.jpg
 creator:
   author:
     agent_name: Josephus, Titus Flavius
     gutenberg_agent_id: '53074'
     url: http://www.gutenberg.org/2009/agents/53074
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64837#Selections-From-Josephus
 gutenberg_issued: '2021-03-16'
 gutenberg_type: Text
 identifiers:
